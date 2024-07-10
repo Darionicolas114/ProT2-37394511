@@ -11,9 +11,9 @@
     </div>
 </footer>
 
-<script src="public/assets/js/bootstrap.bundle.min.js"></script>
+
  <!-- Bootstrap -->
- <script src="assets/js/bootstrap/bootstrap.bundle.min.js"></script>
+ <script src="assets/js/bootstrap.bundle.min.js"></script>
     <!-- jQuery -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.js"></script>
     <!-- Datatables -->

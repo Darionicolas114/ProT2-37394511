@@ -1,4 +1,5 @@
 
+<link rel="stylesheet" href="assets/css/bootstrap.min">
 <div id="carouselExampleIndicators" class="carousel slide">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
